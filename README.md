@@ -11,13 +11,6 @@ When I'm not coding, you will usually find me in the gym or enjoying a coffee wh
 
 Thanks for stopping by my website! Feel free to get in touch if you'd like to hire me, collaborate on a project or just want to chat about web development.</p>
 
-<!-- <h3 align="left">Social Stuff:</h3>
-<p align="left">
-<a href="https://twitter.com/TheDannyWragg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Tweet Me!" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/danny-wragg/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Connect With Me!" height="30" width="40" /></a>
-<a href="https://www.instagram.com/thedannywragg/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Send Me Memes!" height="30" width="40" /></a>
-</p>-->
-
 <h3 align="left">Languages:</h3>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
@@ -27,20 +20,10 @@ Thanks for stopping by my website! Feel free to get in touch if you'd like to hi
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>  
 </p>
 
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DannyWragg&show_icons=true&theme=transparent)
 
-<!--
-**DannyWragg/DannyWragg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on my personal portfolio website.
+- 🌱 I’m currently about to complete a JavaScript course refresher before I start on a PHP refresher course.
+- 🤔 I’m looking forward to studying cloud systems like AWS and Google in more depth in the future.
+- 💬 Ask me anything..
+- 📫 How to reach me: Socials and website are linked on my profile
