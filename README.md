@@ -2,7 +2,7 @@
 
 ### Howdy, I'm Danny👋🤠
 
-A thirty year old web developer based in Darlington. I love creating innovative, simple and clean web applications that provide real value to the end user and delivering this within a set timescale which meets the client’s requirements.
+A thirty one year old web developer based in Darlington. I love creating innovative, simple and clean web applications that provide real value to the end user and delivering this within a set timescale which meets the client’s requirements.
 
 I enjoy learning and trying to stay up-to-date with the latest web development trends and technologies and I'm always looking for new ways to improve my skill set.
 
